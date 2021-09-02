@@ -5,6 +5,13 @@ Studying at Epitech, currently a third year.
 
 During my schooling in different countries, I was able to meet people with different cultures, which allowed me to progress in my ability to adapt. The geographical distance of my contacts oriented me very early on towards sharing tools and remote games, which allowed me to develop my knowledge and apply it to everyday life.
 
+# IMPORTANT : Repositories
+
+The Epitech repository (where there is all my Epitech projects) is private but I listed the most important projects on my Portfolio (see below)
+
+My personal projects are not on this account since i use a different nickname for them and i don't want to link my nickname with my real name for privacy reasons.
+But if you are interested, i can give it on my interview.
+
 <a href="https://flavienallix.gatsbyjs.io" target="_blank"><img src="https://flavienallix.gatsbyjs.io/static/1047871691d867df138a183abd2814cf/47498/me.jpg"/></a>
 
 ### Porgramming Languages
