@@ -1,6 +1,8 @@
 <h1 align="center">𝓗𝓮𝓵𝓵𝓸</h1>
 
-<a href="https://flavien.allix.dev" target="_blank"><img src="https://flavien.allix.dev/banner.jpg"/></a>
+Welcome to my github profile !
+
+Most of my projects are private, my public projects are not on this github account.
 
 ### Portfolio
 
